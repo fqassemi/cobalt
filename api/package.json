@@ -10,6 +10,7 @@
     },
     "scripts": {
         "start": "node src/cobalt",
+        "build": "svelte-kit build",
         "test": "node src/util/test",
         "token:jwt": "node src/util/generate-jwt-secret"
     },
