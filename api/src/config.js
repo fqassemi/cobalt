@@ -1,5 +1,5 @@
 import { Constants } from "youtubei.js";
-import { getVersion } from "@imput/version-info";
+//import { getVersion } from "@imput/version-info";
 import { services } from "./processing/service-config.js";
 import { supportsReusePort } from "./misc/cluster.js";
 
